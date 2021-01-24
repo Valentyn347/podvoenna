@@ -1,0 +1,2 @@
+for name in input('Ведіть слово>> '):
+    print(name * 2, end='')
